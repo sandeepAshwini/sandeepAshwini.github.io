@@ -1,9 +1,3 @@
-# QuickSpeak TTS
-
-This repository contains a simple QuickSpeak text-to-speech demo. The contents of `index.html` are included below for reference.
-
-````markdown
-```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -81,5 +75,3 @@ This repository contains a simple QuickSpeak text-to-speech demo. The contents o
   </script>
 </body>
 </html>
-```
-````
